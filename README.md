@@ -10,3 +10,10 @@ game files for a bot to use.
 
 The game files can be downloaded from the game's official website:
 http://content.turbine.com/acpatch/ac_data.zip
+
+
+## Testing
+
+```bash
+python -m unittest discover
+```
